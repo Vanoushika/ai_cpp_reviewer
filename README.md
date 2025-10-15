@@ -1,3 +1,10 @@
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.37.1-FF4B4B.svg)
+![Transformers](https://img.shields.io/badge/Transformers-4.44.2-yellow.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/Project-Completed-success.svg)
+
+# 🤖 AI-Powered C++ Code Reviewer (Offline)
 # 🤖 AI-Powered C++ Code Reviewer (Offline)
 
 An **offline AI-driven static analysis tool** that scans C++ source files to detect unsafe functions, unused variables, and potential memory leaks — then generates **AI-based explanations and safer code suggestions** using lightweight Transformer models.
